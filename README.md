@@ -3,13 +3,13 @@ A simple graphical BMI calculator built with Python and Tkinter.
 # GUI-based BMI Calculator
 
 ## Project Overview
-This is a simple and intuitive Body Mass Index (BMI) calculator designed with a Graphical User Interface (GUI). It allows users to easily input their height and weight, and instantly calculates and displays their BMI.
+This project is a user-friendly Body Mass Index (BMI) calculator built with Python and Tkinter, designed for quick and accurate BMI assessment.
 
 ## Features
-* User-friendly interface for inputting height (in cm) and weight (in kg).
-* Instantaneous BMI calculation.
-* Clear display of the calculated BMI.
-* Basic input validation to ensure numerical entries.
+* **Intuitive User Interface:** Provides a simple and clear graphical interface for users to input their height (in cm) and weight (in kg).
+* **Instant BMI Calculation:** Calculates and displays the user's BMI immediately upon input.
+* **Basic Input Validation:** Ensures that valid numerical inputs are provided for accurate calculations.
+* **Clear Result Display:** Presents the calculated BMI in an easily readable format.
 
 ## Technologies Used
 * **Python:** The core programming language.
